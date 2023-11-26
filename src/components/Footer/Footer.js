@@ -22,7 +22,7 @@ function Footer() {
         <ul className="nav flex-column">
 
           <li className="nav-item">
-            <Link to="/projects/#" className="nav-link footer-nav">Projects</Link>
+            <Link to="/development-projects/#" className="nav-link footer-nav">Projects</Link>
           </li>
 
           <li className="nav-item">
