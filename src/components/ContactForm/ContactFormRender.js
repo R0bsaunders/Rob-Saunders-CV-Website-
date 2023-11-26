@@ -21,7 +21,7 @@ export default function ContactForm() {
 	// EmailJS credentials
 	const serviceID = "service_3xp247b";
 	const templateID = "template_05s86zs";
-	const publicKey = "4MtM6JCBoDqXoTUpX";
+	const publicKey = "fZDVdzuMw5zKgNXAK";
 	const form = useRef();
 
   // Filter the text entered by the user and update the respective state
