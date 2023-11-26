@@ -19,8 +19,8 @@ export default function ContactForm() {
   const [userPhone, setUserPhone] = useState("");
 
 	// EmailJS credentials
-	const serviceID = "service_yof2mek";
-	const templateID = "template_kh3a3ek";
+	const serviceID = "service_3xp247b";
+	const templateID = "template_05s86zs";
 	const publicKey = "4MtM6JCBoDqXoTUpX";
 	const form = useRef();
 
